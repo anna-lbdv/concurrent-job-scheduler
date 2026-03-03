@@ -1,6 +1,6 @@
 # Concurrent Job Scheduler
 
-A lightweight, concurrent job scheduling service written in pure Java (no Spring). It accepts jobs via a REST API, executes them based on defined schedules, and guarantees resilience with features like exponential backoff retries, timeouts, and backpressure handling.
+It accepts jobs via a REST API, executes them based on defined schedules, and guarantees resilience with features like exponential backoff retries, timeouts, and backpressure handling.
 
 ## Build and Run
 
